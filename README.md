@@ -1,6 +1,6 @@
 ![App Screenshot](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-  # onepage-resume 🔥
+  # Onepage-resume 🔥
 Hey there, Welcome to Hacktoberfest Challenge 🧩 
 
 Add a one page resume WEB template ✅  
