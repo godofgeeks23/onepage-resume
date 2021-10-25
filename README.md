@@ -9,3 +9,4 @@ Preffered Tech stack :
 
 
 Please add your folder as resume_temaplate_{your username}
+and attach screenshot with the PR.
